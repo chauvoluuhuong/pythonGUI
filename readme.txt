@@ -1,0 +1,1 @@
+this project aim to make a vitrual smartphone with raspberry
